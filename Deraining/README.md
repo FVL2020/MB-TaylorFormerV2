@@ -28,7 +28,7 @@ CUDA_VISIBLE_DEVICES=X python Deraining/test.py  --input_dir [Input path] --resu
 For example:
 
 ```
-CUDA_VISIBLE_DEVICES=0 python Deraining/test.py  --input_dir './Deraining/datasets/Rain13K/test/Haze/'  --result_dir './Rain13K_result' --weights './Draining/pretrained_models/Derain-L.pth'
+CUDA_VISIBLE_DEVICES=0 python Deraining/test.py  --input_dir './Deraining/datasets/Rain13K/test/rain/'  --result_dir './Rain13K_result' --weights './Draining/pretrained_models/DerainV2-L.pth'
 ```
 
 #### To reproduce PSNR/SSIM scores of Table 1, run
