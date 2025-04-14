@@ -63,7 +63,7 @@ See [INSTALL.md](https://github.com/FVL2020/MB-TaylorFormerV2/blob/main/INSTALL.
    @article{jin2025mb,
    title={MB-TaylorFormer V2: Improved Multi-branch Linear Transformer Expanded by Taylor Formula for Image Restoration},
    author={Jin, Zhi and Qiu, Yuwei and Zhang, Kaihao and Li, Hongdong and Luo, Wenhan},
-   journal={arXiv preprint arXiv:2501.04486},
+   journal={TPAMI},
    year={2025}
    }
    ```
