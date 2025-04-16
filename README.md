@@ -2,7 +2,7 @@
 
 This repository contains the official implementation of the following paper:
 > MB-TaylorFormer V2: Improved Multi-branch Linear Transformer Expanded by Taylor Formula for Image Restoration<br>
-> [Yuwei Qiu](https://arxiv.org/search/cs?searchtype=author&query=Qiu%2C+Y), [Kaihao Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang%2C+K), [Chenxi Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang%2C+C), [Wenhan Luo](https://arxiv.org/search/cs?searchtype=author&query=Luo%2C+W), [Hongdong Li](https://arxiv.org/search/cs?searchtype=author&query=Li%2C+H), [Zhi Jin](https://arxiv.org/search/cs?searchtype=author&query=Jin%2C+Z)<sup>*</sup><br>   
+> [Zhi Jin](https://arxiv.org/search/cs?searchtype=author&query=Jin%2C+Z), [Yuwei Qiu](https://arxiv.org/search/cs?searchtype=author&query=Qiu%2C+Y), [Kaihao Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang%2C+K), [Chenxi Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang%2C+C), [Hongdong Li](https://arxiv.org/search/cs?searchtype=author&query=Li%2C+H), [Wenhan Luo](https://arxiv.org/search/cs?searchtype=author&query=Luo%2C+W)<sup>*</sup><br>   
 **Paper Link:** [[official link](https://arxiv.org/abs/2501.04486)] 
 
 ## Overview
